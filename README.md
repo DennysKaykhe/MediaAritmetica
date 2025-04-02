@@ -1,0 +1,2 @@
+# MediaAritmetica
+atividade MediaAritmetica
